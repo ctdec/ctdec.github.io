@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ctdec.github.io/sitemap.xml
+Host: https://ctdec.github.io
